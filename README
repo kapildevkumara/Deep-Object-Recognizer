@@ -1,4 +1,4 @@
-Deep-Object-Recognizer:
+*Deep-Object-Recognizer:*
 ﻿Deep-Object Recognizer Application Aims to Find the Distance of Objects dectected in the scene captured from Intel Realsense Camera in Real Time.
 
 
@@ -22,7 +22,7 @@ Run install.sh	    	: To Install Other Dependencies - OpenCV, Matlplotlib, Numpy
 
 
 Run:
-To Run the Application 	: python main.py
+To Run the Application 	: python3 main.py
 
 
 
